@@ -1,2 +1,5 @@
 #removing all classes
 *.class
+
+#removing Main2.java
+Main2.java
